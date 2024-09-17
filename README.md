@@ -1,0 +1,1 @@
+# blog-agg-solution-snapshot-v0
